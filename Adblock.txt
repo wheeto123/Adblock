@@ -39,3 +39,6 @@ twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1ua
 ! 2021-03-14 https://twitter.com
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n:nth-of-type(3)
 
+! 2021-03-15 https://m.facebook.com
+m.facebook.com###rootcontainer
+
