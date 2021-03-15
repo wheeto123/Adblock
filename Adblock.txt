@@ -1,0 +1,41 @@
+! 02/07/2020 https://www.facebook.com
+www.facebook.com##.ecm0bbzt.l9j0dhe7.k4urcfbm.du4w35lb
+www.facebook.com##.pybr56ya.dati1w0a.hv4rvrfc.btwxx1t3.owycx6da.bp9cbjyn.i1fnvgqd.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! 11/07/2020 https://www.facebook.com
+www.facebook.com###u_0_t
+www.facebook.com###left_nav_section_nodes
+
+! 2020-09-06 https://www.facebook.com
+www.facebook.com##.k4urcfbm.tr9rh885 > div.taijpn5t.btwxx1t3.j83agx80:nth-of-type(3)
+
+! 2020-09-07 https://www.facebook.com
+www.facebook.com##.gs1a9yip.j83agx80.btwxx1t3.owycx6da.jifvfom9.dlv3wnog.rl04r1d5.ni8dbmo4.stjgntxs.jbae33se.cxgpxx05.l9j0dhe7
+
+! 2020-10-04 https://www.youtube.com
+!www.youtube.com###secondary
+!www.youtube.com##.ytp-endscreen-content
+
+! 2020-10-25 https://twitter.com
+twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-1tlfku8.r-14lw9ot.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-9cbz99.r-1u4rsef.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-9cbz99.r-1u4rsef.css-1dbjc4n
+
+! 2020-11-07 https://twitter.com
+twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-1tlfku8.r-14lw9ot.css-1dbjc4n > .css-1dbjc4n > .r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div
+
+! 2020-11-08 https://twitter.com
+twitter.com##.r-6czh2s.r-6416eg.r-o7ynqc.r-1ea30sd.r-1j3t67a.r-1ny4l3l.r-6dt33c.r-1777fci.r-y3da5r.r-sdzlij.r-urgr8i.css-1dbjc4n.css-18t94o4
+
+! 2020-11-21 https://twitter.com
+twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-1gm7m50.r-14lw9ot.css-1dbjc4n > .css-1dbjc4n > .r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div
+
+! 2020-11-24 https://twitter.com
+twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-18bvks7.r-yfoy6g.css-1dbjc4n > .css-1dbjc4n > .r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div
+
+! 2020-12-20 https://twitter.com
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n:nth-of-type(3)
+
+! 2021-03-14 https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n:nth-of-type(3)
+
